@@ -55,7 +55,7 @@ export default {
     <body>
         <NavBar></NavBar>
         <h4>Hotdog Sale</h4>
-        <p>{{ currentCart }}</p>
+        <p>Current Cart: {{ currentCart }}</p>
         <CartItem>
             <body><h1>Vue Logo</h1>
             <img alt="Vue logo" class="logo" src="../assets/logo.svg" width="150" height="150" />
