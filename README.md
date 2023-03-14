@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+### Food For Thought
+
+Our routes has a pound sign then a slash in addition to the slash that our page would normally have. Having the virtual page splitting might not be useful for someone else if the pages wouldn't need to be connected.
