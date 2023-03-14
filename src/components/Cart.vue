@@ -70,7 +70,7 @@ export default {
         <br>
         <CartItem>
             <body><h1>Hot Dog</h1>
-            <img alt="Vue logo" class="logo" src="https://images.squarespace-cdn.com/content/v1/5dd8630d09ab5908e35b35a0/1574463308006-PDSJDF9EEEB0TJG7TL1N/img-HotDogStock-1080x675.png?format=1000w" width="150" height="150" />
+            <img alt="Hotdog" class="logo" src="https://images.squarespace-cdn.com/content/v1/5dd8630d09ab5908e35b35a0/1574463308006-PDSJDF9EEEB0TJG7TL1N/img-HotDogStock-1080x675.png?format=1000w" width="150" height="150" />
             <br>
             <p>This item is worth 1 hot dog.</p>
             <br>
@@ -82,7 +82,7 @@ export default {
         <br>
         <CartItem>
             <body><h1>Hot Dog Website</h1>
-            <img alt="Vue logo" class="logo" src="../assets/pictureofhotdog.png" width="150" height="150" />
+            <img alt="Website" class="logo" src="../assets/pictureofhotdog.png" width="150" height="150" />
             <br>
             <p>This item is worth almost 12 hot dogs.</p>
             <br>
@@ -94,7 +94,7 @@ export default {
         <br>
         <CartItem>
             <body><h1>FordF150</h1>
-            <img alt="Vue logo" class="logo" src="../assets/fordf150.png" width="150" height="150" />
+            <img alt="Ford" class="logo" src="../assets/fordf150.png" width="150" height="150" />
             <br>
             <p>This item is worth 33,695 hot dogs.</p>
             <br>
